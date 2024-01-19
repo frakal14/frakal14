@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/1kc1.gif)](https://www.linkedin.com/in/karol-fraczkowski/)
+[![MasterHead](https://png.pngtree.com/thumb_back/fw800/back_pic/05/08/10/69597aa7e2441d0.jpg)](https://www.linkedin.com/in/karol-fraczkowski/)
 <h1 align="center">Hi 👋, I'm Karol</h1>
 <h3 align="center">A passionate Quality Assurance tester from Poland, currently based in Berlin.</h3>
 <img align="right" alt"Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1278/1*C1fOBHUKKKDS_TBmWVczFQ.gif">
