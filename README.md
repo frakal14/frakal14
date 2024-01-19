@@ -1,4 +1,4 @@
-[![MasterHead]([https://png.pngtree.com/thumb_back/fw800/back_pic/05/08/10/69597aa7e2441d0.jpg](https://www.idexxcurrents.com/media/filer_public_thumbnails/filer_public/58/f0/58f0ba1e-f6aa-4378-8736-ac64d9b406df/quality-assurance-servic_1.jpg__1200x800_q80_subsampling-2.jpg))](https://github.com/frakal14)
+[![MasterHead](https://www.idexxcurrents.com/media/filer_public_thumbnails/filer_public/58/f0/58f0ba1e-f6aa-4378-8736-ac64d9b406df/quality-assurance-servic_1.jpg__1200x1200_q80_subsampling-2.jpg)](https://github.com/frakal14)
 
 <h1 align="center">Hi 👋, I'm Karol</h1>
 <h3 align="center">A passionate Quality Assurance tester from Poland, currently based in Berlin.</h3>
