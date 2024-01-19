@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karol</h1>
 <h3 align="center">A passionate Quality Assurance tester from Poland, currently based in Berlin.</h3>
-<img align="right alt"Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1278/1*C1fOBHUKKKDS_TBmWVczFQ.gif">
+<img align="right" alt"Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1278/1*C1fOBHUKKKDS_TBmWVczFQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frakal14&label=Profile%20views&color=0e75b6&style=flat" alt="frakal14" /> </p>
 
