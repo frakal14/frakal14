@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frakal14&label=Profile%20views&color=0e75b6&style=flat" alt="frakal14" /> </p>
 
-- 🌱 I’m currently learning **Cypress, JavaScript, Docker/Jenkins**
+- 🌱 I’m currently learning **Playwright, Typescrpt, Docker/Jenkins**
 
 - 👨‍💻 All of my projects are available at [frakal14](frakal14)
 
